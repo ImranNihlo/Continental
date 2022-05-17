@@ -28,7 +28,7 @@ function Sidebar (props) {
         </span>
       </div>
       <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel" data-bs-interval="2000">
-        <div className="carousel-inner px-4 pt-3 pb-2 border-bottom">
+        <div className="carousel-inner px-5 pt-3 pb-2 border-bottom">
           <div className="carousel-item active">
             <img className="d-block radius" src={dagestan} alt="dagestan"/>
             <h5 className="text-center">
