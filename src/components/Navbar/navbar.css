@@ -1,0 +1,15 @@
+.dropdown:hover > .dropdown-menu {
+    display: block;
+}
+
+.dropright {
+    transform: translate3d(170px, -38px, 0px);
+}
+
+.nav-link, a {
+    color: #FFFFFF;
+}
+
+a {
+    text-decoration: none;
+}
